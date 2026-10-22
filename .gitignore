@@ -112,3 +112,10 @@ AI_INSTRUCTIONS.md
 
 # Git metadata must never be part of a software-content export
 **/.git/
+
+# Genuine, privacy-reviewed application screenshots used by the public README
+!/docs/screenshots/dashboard.png
+!/docs/screenshots/inventory.png
+!/docs/screenshots/orders.png
+!/docs/screenshots/analytics.png
+!/docs/screenshots/warehouse-3d.png
